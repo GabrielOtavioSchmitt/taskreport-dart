@@ -124,17 +124,15 @@ taskreport-dart/main.dart/README.md/planejamento/tarefas_kanban.md
 
 O gerenciamento das atividades foi realizado utilizando a metodologia Kanban através do Trello.
 
-Quadro Kanban:
+Link Kanban e Github:
 
 https://trello.com/b/s8aYwQmD
 
+https://github.com/GabrielOtavioSchmitt/taskreport-dart
 
 ## Como Executar
 
 Execute o arquivo main.dart no ambiente utilizado em aula.Visual Studio Code!
-
-Execute o projeto:
-
 
 ## Autor
 
