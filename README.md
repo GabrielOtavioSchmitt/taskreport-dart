@@ -110,14 +110,7 @@ Geração de um relatório completo contendo todas as análises realizadas.
 
 ## Estrutura do Projeto
 
-taskreport-dart/
-│
-├── planejamento/
-│   └── tarefas_kanban.md
-│
-├── main.dart
-│
-└── README.md
+taskreport-dart/main.dart/README.md/planejamento/tarefas_kanban.md
 
 ## Tecnologias Utilizadas
 
