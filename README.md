@@ -134,7 +134,7 @@ https://drive.google.com/file/d/1d2WbcAELfPgko704_dFihdbYW5BcEdUC/view?usp=shari
 
 ## Como Executar
 
-Execute o arquivo main.dart no ambiente utilizado em aula.Visual Studio Code!
+Execute o arquivo main.dart no ambiente utilizado em aula. Visual Studio Code! ou copie e cole o código do aquivo main.dart no site dartpad para execução: https://dartpad.dev/
 
 ## Autor
 
